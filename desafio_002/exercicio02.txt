@@ -1,0 +1,2 @@
+crie um script python que leia o dia o mês e o ano de nascimento de um pessoa 
+e mostre uma mensagem com a data formatada

@@ -1,0 +1,2 @@
+04 faça um programa que leia algo pelo teclado e mostre na tela 
+a seu tipo primitivo e todas as informações possiveis sobres ele

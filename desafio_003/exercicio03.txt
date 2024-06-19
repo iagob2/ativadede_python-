@@ -1,0 +1,1 @@
+03 crie um script python que leia dois numeros e mostrer as operações matematicas
