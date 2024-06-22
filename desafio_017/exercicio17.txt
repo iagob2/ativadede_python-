@@ -1,0 +1,1 @@
+17 - faça um programa que leia o comprimento do cateto oposto e do adjacente de um triângulo retângula , calcule e mostre a hipotenusa

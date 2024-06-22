@@ -1,0 +1,1 @@
+13 - faça um algoritmo que leia o salária de um funcionário e mostre seu novo salária, com 15% de aumento. 

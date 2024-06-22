@@ -1,0 +1,1 @@
+11 - faça um programa que leia a largura e a altura de uma parede em mentros , calcule a sua área e a quantidade de tinta necessaria para pintá-la , sabendo qeu cada litro de tinta , pinta um áraa de 2m²

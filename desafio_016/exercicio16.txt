@@ -1,0 +1,1 @@
+16 - crie um programa que leia um número real qualquer pelo teclada e mostra na tela a sua porção inteira 

@@ -1,0 +1,3 @@
+14 - escreva um programa que converta uma temperatura digitado em °c e converta para °F
+
+p.s multiplicar a temperatura em graus Celsius por 1,8 e somar 32.
