@@ -1,0 +1,1 @@
+30 - crie um porgrama que leia um numero inteiro e mostre na tela se ele par ou impar

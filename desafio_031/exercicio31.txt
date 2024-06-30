@@ -1,0 +1,1 @@
+031 - desenvolva um programa que pergunte a distância de uma viagem em km e  calcule o preço da passagem , caobrando R$0,50 por km para viagens de até 200km e R$0,456 para viagens masi longas
