@@ -1,0 +1,1 @@
+55 - faça um programa que leia o pesso de cinco pesoas . no final , mostre qual foio o maior e o menor peso lidos 

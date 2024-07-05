@@ -1,0 +1,6 @@
+41 - a conferação nacional de natação precisa de um programa que leia o anod de nascimento de um atleta e mostre sua categoria de acordo como a idade:
+ate : 9 anos : mirim 
+ate : 14 anos : infantil 
+ate : 19 anos : junior 
+ate : 25 anos : sênior 
+acima:master

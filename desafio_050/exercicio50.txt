@@ -1,0 +1,1 @@
+50 - desenvolva um program aque leia seis números inteiros e mostre a soma apenasi daqueles que forem pares . se o valor digitador for impar desconsidere-0

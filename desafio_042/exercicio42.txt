@@ -1,0 +1,4 @@
+42- refoço do 035 dos triângulos , acrescente o rercuso de mostrar que tipor de triângulos sera formado:
+- equilátero: todos os lados iguais 
+- Isósceles: dois lodos iguais 
+- Escaleno: todos os lados diferentes 

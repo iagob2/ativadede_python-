@@ -1,0 +1,4 @@
+40 - crie um programa que leia duas notas de um aluno e calcule a media , mostrando um mensagem no final de acordo com a media atingido :
+- média abaixo de 5.0 reprovado 
+- média entre 5.0 e 6.9 recuperação 
+- média 7.0 ou superior: aprovado 
