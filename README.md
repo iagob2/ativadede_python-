@@ -1,4 +1,4 @@
-Desafios dos Mundos de Python por Gustavo Guanabara no Curso em Vídeo
+Desafios dos Mundos de Python do Gustavo Guanabara no Curso em Vídeo por iago lima
 
 Os desafios propostos por Gustavo Guanabara no curso "Mundos de Python" são uma excelente oportunidade para aprimorar minhas habilidades em programação.
 Esses exercícios são projetados para abordar diversos conceitos fundamentais do Python de maneira prática e didática. Ao resolver esses desafios, não apenas 
