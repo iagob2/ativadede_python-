@@ -1,0 +1,1 @@
+61 - refaça o desafio 51 lendo o primiro termo e a razao de um pa , mostrandos os 10 primeiros termos da progressão usando a estruta while

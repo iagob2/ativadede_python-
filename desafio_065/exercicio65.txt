@@ -1,0 +1,1 @@
+65 - Crie um progrma que leia números inteiros pelo teclado no final da execução , motre a media entre todos os valores e qual foi o maior e o menor valores lidos.o programa deve pergunta ao usuário se ele quer ou não continnuar a digitar valores 

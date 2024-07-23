@@ -1,0 +1,2 @@
+64- crie um programa que leia varios números inteiros pelo teclado. O programa só vai para quanto o usário digitar o valor 999 que é a condição de parada . no final , mostre quantos números foram digitados e qual foi a soma entre eles (desconsirando o flag )
+

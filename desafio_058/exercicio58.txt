@@ -1,0 +1,1 @@
+58 - melhore o jogo do desafio 28 onde o computador vai "pensar" em um número de 0 e 10 . só que agora o jogador vai tentar adivinhar até acerta , mostrando no final quantos palpites foram necessário para vencer.
