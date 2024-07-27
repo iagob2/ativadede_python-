@@ -1,1 +1,1 @@
-63 - escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de um sequência de finonasci 
+63 - escreva um programa que leia um número n inteiro qualquer e mostre na tela os n primeiros elementos de um sequência de Fibonacci 
