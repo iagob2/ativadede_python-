@@ -1,0 +1,4 @@
+crie um programa que crie um matriz de dimensão 3v3 
+ e preencha com valores lidos pelo teclado 
+
+ no final , mostre a matriz no tela com formataca correta 

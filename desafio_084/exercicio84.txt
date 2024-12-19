@@ -1,0 +1,5 @@
+faça um programa que leia nome e peso de varios pessoas , guardando tudo em uma lista . no final , mostre:
+
+a - quantas pessoas foram cadostradas 
+b - uma listagem com as pessoas mais pesadas 
+c - uma listagem com as pessoas mais leves 

@@ -1,0 +1,1 @@
+crie um programa onde o usuario possa digitar sete valores num�ricos e cadastre-os em uma lista inico que mantenha separados os valores pares e impares.no final , mostre os valores pares e impares em ordem crescente
