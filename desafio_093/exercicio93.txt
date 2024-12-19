@@ -1,0 +1,1 @@
+crie um programa que gerencie o  aprovetamento de um jogador de futebol. o programa vai ler o  nome do jogador e quantas partidas ele jogou.depois vai ler a quantidade de gols feitas em cada partida.no final , tudo isso sera guardado em um dicionário , incluindo o total de gols feitos durante o campeonato 

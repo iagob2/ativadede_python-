@@ -1,0 +1,1 @@
+crie um programa  onde 4 jodadores joquem um dado e tenham resultados aleatórios. guarde esse resultados em um dicionario. no final coloque esse dicionario em ordem , sabendo que o vencedor tirou o maior número no dado

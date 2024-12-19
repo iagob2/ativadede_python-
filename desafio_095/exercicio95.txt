@@ -1,0 +1,1 @@
+aprimore o desafio 93 para que ele funcionne com vários jogadores , inclundo um sistema de visulização de detalhes do aproveitamento de cada jogador
