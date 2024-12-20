@@ -1,0 +1,1 @@
+faça um programa que tenho uma função chamada escreva() , que receba um texto qualquer como parâmentro e mostre uma mensagem com tamanho adaptável
